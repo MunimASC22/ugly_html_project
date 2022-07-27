@@ -6,6 +6,7 @@ h1 {
     text-align: center;
     color: gold;
     background-color: rgba(41, 78, 240, 0.808);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h2 {
@@ -16,5 +17,9 @@ h2 {
 }
 
 #list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
