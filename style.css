@@ -23,3 +23,7 @@ h2 {
 div p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+#all_pokemon_container {
+    text-align: center;
+}
